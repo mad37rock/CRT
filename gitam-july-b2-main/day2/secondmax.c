@@ -24,7 +24,3 @@ int main(){
 	return 0;
 }
 
-
-
-
-Assessment-02: https://tinyurl.com/bddw44hn
