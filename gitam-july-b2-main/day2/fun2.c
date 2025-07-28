@@ -24,7 +24,7 @@ int main(){
 	return 0;
 }
 
-Assessment-01: https://tinyurl.com/478c6ckr
+
 
 
 
